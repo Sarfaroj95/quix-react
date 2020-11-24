@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f24ccef4.chunk.css",
+    "main.js": "/static/js/main.9e702624.chunk.js",
+    "main.js.map": "/static/js/main.9e702624.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb4930dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb4930dd.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.6e73e284.chunk.js": "/static/js/2.6e73e284.chunk.js",
+    "static/js/2.6e73e284.chunk.js.map": "/static/js/2.6e73e284.chunk.js.map",
+    "static/js/3.d4045838.chunk.js": "/static/js/3.d4045838.chunk.js",
+    "static/js/3.d4045838.chunk.js.map": "/static/js/3.d4045838.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.f24ccef4.chunk.css.map": "/static/css/main.f24ccef4.chunk.css.map",
+    "static/js/2.6e73e284.chunk.js.LICENSE.txt": "/static/js/2.6e73e284.chunk.js.LICENSE.txt",
+    "static/media/032060_P004_Peregrine.841c8e11.png": "/static/media/032060_P004_Peregrine.841c8e11.png",
+    "static/media/clock.2c988092.svg": "/static/media/clock.2c988092.svg",
+    "static/media/d03b846e0d53bca1a9070ac0c79964f0.383cb854.png": "/static/media/d03b846e0d53bca1a9070ac0c79964f0.383cb854.png",
+    "static/media/profer.e5c5e42a.svg": "/static/media/profer.e5c5e42a.svg",
+    "static/media/qilin.0cf721d8.png": "/static/media/qilin.0cf721d8.png",
+    "static/media/undraw_exams_g4ow.f8e8458e.svg": "/static/media/undraw_exams_g4ow.f8e8458e.svg",
+    "static/media/uyZWW7-broad-winged-albatross-png-free-download.199f9dd4.png": "/static/media/uyZWW7-broad-winged-albatross-png-free-download.199f9dd4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4930dd.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.6e73e284.chunk.js",
+    "static/css/main.f24ccef4.chunk.css",
+    "static/js/main.9e702624.chunk.js"
+  ]
+}
