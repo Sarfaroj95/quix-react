@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Abibi",
+        "current_score": 20,
+        "take_time": 10
+    },
+    {
+        "id": 2,
+        "name": "Khalid",
+        "current_score": 19,
+        "take_time": 12
+    },
+    {
+        "id": 3,
+        "name": "Omor",
+        "current_score": 18,
+        "take_time": 13
+    },
+    {
+        "id": 4,
+        "name": "Faruk",
+        "current_score": 17,
+        "take_time": 18
+    },
+    {
+        "id": 5,
+        "name": "Mobarok",
+        "current_score": 16,
+        "take_time": 19
+    },
+    {
+        "id": 6,
+        "name": "Abdullah",
+        "current_score": 15,
+        "take_time": 20
+    },
+    {
+        "id": 7,
+        "name": "Ramim",
+        "current_score": 16,
+        "take_time": 22
+    },
+    {
+        "id": 8,
+        "name": "Sahajan",
+        "current_score": 14,
+        "take_time": 26
+    },
+    {
+        "id": 9,
+        "name": "Ahmmed",
+        "current_score": 13,
+        "take_time": 29
+    },
+    {
+        "id": 10,
+        "name": "Sara",
+        "current_score": 10,
+        "take_time": 30
+    }
+]
